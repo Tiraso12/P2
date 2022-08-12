@@ -1,9 +1,6 @@
-# README GENERATOR
-License: WTFPL
-
 ## Description
 
- this project is a command line application that generates a proffesional README.md. 
+ TEST2
 
 ## Table of Content
 - [Installation](#installation)
@@ -14,23 +11,22 @@ License: WTFPL
 - [Questions](#questions)
 
 ## Instalation
-git clone or download the repo
+TEST3
 
 ## Usage
-make sure you run npm i inquirer
+TEST4
 ## License
 WTFPL Copyright (c) 2022
- DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
 
 ## Contributing
-Gonzalo Rodriguez
+TEST5
 
-## Tests
-npm run test
+## Test
+TEST6
 
 ## Questions
 
 For any questions feel free to contact me at :
- *[@tiraso12.com](mailto:@tiraso12.com).
+ *[TEST8](mailto:TEST8).
 
-To see all of my projects click the link! [Tiraso12](http://github.com/Tiraso12).
+To see all of my projects click the link! [TEST7](http://github.com/TEST7).
